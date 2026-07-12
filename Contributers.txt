@@ -1,0 +1,10 @@
+{
+    "contributors": [
+        {
+            "robloxUserId": 10445345711,
+            "robloxUsername": "imthemogger_0",
+            "discordUsername": "revixionary_2",
+            "role": "Owner"
+        },
+    ]
+}
